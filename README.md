@@ -1,4 +1,4 @@
-# Brain Tumor Detection Model
+# BNRS Brain Tumor Detection Model
 
 This project aims to detect brain tumors in MRI images using deep learning techniques. We utilized two datasets from Kaggle:
 
