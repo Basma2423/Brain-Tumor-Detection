@@ -17,7 +17,7 @@ We employed **ResNet** as our pretrained model for this project.
 - [Basma Mahmoud Hashem Ali](https://github.com/Basma2423)
 - [Nourhan Mahmoud](https://github.com/NourhanMahmoudd)
 - [Roaa Fathi Nada](https://github.com/rFathi03)
-- [Selsabeel Asim Mohamed](https://github.com/SelsabeelA)
+- [Selsabeel A.](https://github.com/SelsabeelA)
 
 ## Model Performance
 
